@@ -1,0 +1,271 @@
+body, h1, p {
+    margin: 0;
+    padding: 0;
+
+}
+
+@font-face {
+    font-family: 'beautifulPeople';
+    src: url(../font/Custom1.ttf);
+}
+
+header {
+    font-size: 200%;
+    color: darkslateblue;
+    background-color: cadetblue;
+    text-align: center;
+    padding: 3%;
+    text-shadow: 2px 2px 10px white;
+    font-weight: bolder;
+}
+.second_text{
+    font-family: 'Sacramento', cursive;
+    font-size: 130%;
+}
+
+.lyrics {
+    text-align: center;
+    font-family: 'Mate', serif;
+    color: black;
+    font-size: 3.5vh;
+    line-height: 1.5;
+    text-shadow: 4px 4px 20px wheat;
+    background-color: white;
+}
+
+.beautifulPeople{
+    font-family: 'beautifulPeople',sans-serif;
+}
+.oh{
+    font-size: 140%;
+    color: grey;
+}
+.i{
+    font-size: 200%;
+    color: grey;
+}
+.that{
+    color: black;
+}
+.we{
+    font-size: 130%;
+}
+
+.shoot{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 140%;
+    color: deeppink;
+}
+.sky{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 140%;
+    color: deeppink;
+}
+.across{
+    color: black;
+}
+.the{
+    font-size: 130%;
+}
+.drink{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 140%;
+    color: darkblue;
+}
+.from{
+    font-size: 120%;
+    color:black;
+}
+.me{
+    font-size: 90%;
+}
+.world{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: deepskyblue;
+}
+.angel{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: deepskyblue;
+}
+.note2{
+    font-family: 'beautifulPeople',sans-serif;
+    color: darkblue;
+    text-shadow: none;
+    font-size: 135%;
+}
+
+.note3{
+    color: chocolate;
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 110%;
+}
+
+.note4{
+    color: rgb(226, 135, 217);
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 110%;
+}
+.note5{
+    color: rgb(228, 42, 73);
+    text-shadow: 4px 4px 10px pink;
+    font-size: 120%;
+}
+
+.low1{
+    font-size: 85%;
+    color: grey;
+    text-shadow: 2px 2px 6px silver;
+}
+.low2{
+    font-size: 75%;
+    color: grey;
+    text-shadow: 2px 2px 6px silver;
+}
+.low3{
+    font-size: 60%;
+    color: grey;
+    text-shadow: 2px 2px 6px silver;
+}
+.high4{
+    font-size: 150%;
+}
+.drink_drug{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: darkblue;
+}
+.up{
+    font-size: 70%;
+    font-weight: bolder;
+}
+.lift{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: deepskyblue;
+}
+.miles{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: deepskyblue;
+}
+.river{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: darkblue;
+}
+.flood{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: deepskyblue;
+}
+.drink2{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: darkgreen;
+}
+.thirsty{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: mediumseagreen;
+    font-weight: bold;
+}
+.sym{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: darkgreen;
+}
+.wings{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 140%;
+    color: darkgreen;
+}
+.on{
+    font-size: 120%;
+    color:mediumseagreen;
+    font-weight: bold;
+}
+.me{
+    font-size: 90%;
+    color: black;
+}
+.heavy{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    font-weight: bold;
+    color: mediumseagreen;
+}
+.line{
+    color: grey;
+    text-shadow: 2px 2px 6px silver;
+}
+.drunk{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: darkgreen;
+}
+.high3{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: darkgreen;
+}
+.so{
+    font-size: 135%;
+    color: mediumseagreen;
+}
+.angel1{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: purple;
+}
+.feel{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: mediumpurple;
+}
+.blood{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: mediumpurple;
+}
+.o{
+    font-weight: bolder;
+    color: grey;
+    text-shadow: 2px 2px 6px silver;
+}
+.drink3{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 140%;
+    color: purple;
+}
+.love{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 140%;
+    color: purple;
+}
+.wings1{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 140%;
+    color: purple;
+}
+.on1{
+    font-size: 120%;
+    color:mediumpurple;
+    font-weight: bold;
+}
+.stars{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 140%;
+    color: mediumpurple;
+}
+.heavy{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: purple;
+}
+.sym2{
+    font-family: 'beautifulPeople',sans-serif;
+    font-size: 135%;
+    color: mediumpurple;
+}
